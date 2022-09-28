@@ -1,6 +1,6 @@
 ### Olá! Eu sou DanielFelin1 👋
 
-- 🌱 Estou estudando HTML5 e CSS3
+- 🌱 Estou estudando HTML5, CSS3 e JavaScript.
 - 📫 Contate-me no e-mail: felinamaral@gmail.com
 - 🏠 Sou de Uruguaiana - RS
 
