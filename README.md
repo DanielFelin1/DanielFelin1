@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando HTML5 e CSS3
 - 📫 Contate-me no e-mail: felinamaral@gmail.com
-- 😄 Pronome: ele/dele
+- 🏠 Sou de Uruguaiana - RS
 
 <div>
   <a href="https://github.com/DanielFelin1">
