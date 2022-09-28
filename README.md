@@ -1,5 +1,6 @@
 ### Olá! Eu sou DanielFelin1 👋
 
+- 💻 Futuro desenvolvedor Front-End
 - 🌱 Estou estudando HTML5, CSS3 e JavaScript.
 - 📫 Contate-me no e-mail: felinamaral@gmail.com
 - 🏠 Sou de Uruguaiana - RS
