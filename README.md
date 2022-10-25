@@ -5,16 +5,12 @@
 - 📫 Contate-me no e-mail: felinamaral@gmail.com
 - 🏠 Sou de Uruguaiana - RS
 
-<div>
-  <img align="center" margin="auto" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240">
-</div>
-
-<div>
-  <a href="https://github.com/DanielFelin1">
-  <img widht="42%" src="https://github-readme-stats.vercel.app/api?username=DanielFelin1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelin1&layout=compact&langs_count=7&theme=dark">
-  
-</div><br>
+  <div style="display: inline_block"><br>
+    <img align="center" margin="auto" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240">
+    <a href="https://github.com/DanielFelin1">
+    <img widht="42%" src="https://github-readme-stats.vercel.app/api?   username=DanielFelin1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+    <img widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFelin1&layout=compact&langs_count=7&theme=dark">
+  </div><br>
 
 <div>
    <img align="center" alt="Daniel-JS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
