@@ -6,7 +6,7 @@
 - 🏠 Sou de Uruguaiana - RS
 
 <div>
-  <img align="to top" margin="auto" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240">
+  <img align="center" margin="auto" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240">
 </div>
 
 <div>
