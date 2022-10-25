@@ -5,7 +5,7 @@
 - 📫 Contate-me no e-mail: felinamaral@gmail.com
 - 🏠 Sou de Uruguaiana - RS
 
-<div>
+<div aling="center">
   <img align="to top" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240">
 </div>
 
