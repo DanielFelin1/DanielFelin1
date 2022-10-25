@@ -6,7 +6,7 @@
 - 🏠 Sou de Uruguaiana - RS
 
   <div style="display: inline_block"><br>
-    <img align="center" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240"/>
+    <img align="to right" src="https://pbs.twimg.com/media/FdxchjVWABAai4F?format=png&name=240x240"/>
     <a href="https://github.com/DanielFelin1">
   </div>
   <div> <br>
